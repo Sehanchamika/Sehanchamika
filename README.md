@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Sehan 
 chamika</h1>
 <h3 align="center">A passionate Programmer from Sri lanka Live in Italy</h3>
-<p align="center">I am currently pursuing Control Systems Engineering with a specialization in Machine Learning. I am fascinated by how artificial intelligence and data-driven technologies are transforming the way we solve real-world problems. My interest in programming, automation, and intelligent systems has motivated me to explore machine learning, deep learning, data analysis, and model development.
+<p align="center">I am currently pursuing master's in Control Systems Engineering with a specialization in Machine Learning. I am fascinated by how artificial intelligence and data-driven technologies are transforming the way we solve real-world problems. My interest in programming, automation, and intelligent systems has motivated me to explore machine learning, deep learning, data analysis, and model development.
 
 I enjoy learning new technologies 💻, working on practical projects, and applying my skills to build intelligent and meaningful solutions 🛠️. I am currently looking for a Machine Learning Engineering internship where I can gain industry experience, contribute to impactful projects, and continue developing my technical and problem-solving skills.</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Sehanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="Sehan Chamika" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
