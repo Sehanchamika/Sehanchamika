@@ -41,7 +41,7 @@ I enjoy learning new technologies 💻, working on practical projects, and apply
 
 - 🌱 I’m currently learning **MLops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Java, Python, SQL and NodeJS**
 
@@ -55,8 +55,9 @@ I enjoy learning new technologies 💻, working on practical projects, and apply
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <!-- <p align="left"> -->
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" width="40" /></a>
+<p align="left"> <a href="https://github.com/Sehanchamika" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Sehanchamika-181717?style=for-the-badge&logo=github" alt="GitHub profile" /> </a>
+
+<a href="https://www.linkedin.com/in/sehanchamika" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Sehan%20Chamika-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /> </a>
 <a href="https://fb.com/supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" width="40" /></a>
 <a href="https://www.youtube.com/@supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" width="40" /></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" width="40" /></a>
