@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Sehan 
 chamika</h1>
 <h3 align="center">A passionate Programmer from Sri lanka Live in Italy</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am currently pursuing Control Systems Engineering with a specialization in Machine Learning. I am fascinated by how artificial intelligence and data-driven technologies are transforming the way we solve real-world problems. My interest in programming, automation, and intelligent systems has motivated me to explore machine learning, deep learning, data analysis, and model development.
+
+I enjoy learning new technologies 💻, working on practical projects, and applying my skills to build intelligent and meaningful solutions 🛠️. I am currently looking for a Machine Learning Engineering internship where I can gain industry experience, contribute to impactful projects, and continue developing my technical and problem-solving skills.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
